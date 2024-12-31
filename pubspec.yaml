@@ -1,0 +1,27 @@
+name: file_upload_and_progress_bar_rakesh  # Your project name
+description: A Flutter project to upload files with a progress bar
+
+publish_to: 'none'  # Don't publish to pub.dev if you're working locally
+
+version: 1.0.0+1  # Version number
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"  # Specify the Dart SDK version range
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  dio: ^5.0.0  # Package for HTTP requests
+  file_picker: ^5.2.1  # Package for file picking
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:  
+
+
+    uses-material-design: true  # This line should be 2 spaces indented under 'flutter'
+  # assets:
+  #   - assets/  # Uncomment and add your assets if you have any (e.g., images)
