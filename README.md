@@ -1,16 +1,5 @@
-# file_upload_and_progress_bar
+# File Upload with Progress Bar
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![FIle upload with progress Bar](https://github.com/user-attachments/assets/8dd20905-d507-4829-837d-26bf63dc7d2b)
